@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: 'Shadows Into Light', cursive;
+  color: #fff;
+  background: #7b7070;
 }
 
 code {
